@@ -1,0 +1,185 @@
+.logobody
+{
+	padding-top:50px;
+}
+.title /* logo text */
+{
+	font-size:120px;
+	font-family:"book antiqua", Helvetica, sans-serif;
+	margin-top:50px;
+	text-align:center;
+}
+.titleslogan
+{
+	font-size:35px;
+	font-family:"book antiqua", Helvetica, sans-serif;
+	text-align:center;
+}
+.logoimg1
+{
+	position:absolute;
+	margin-left:0%;
+	top:64px;
+}
+.logoimg2
+{
+	position:absolute;
+	margin-left:0%;
+	top:404px;
+}
+.logoimg3
+{
+	position:absolute;
+	margin-left:78.5%;
+	top:60px;
+}
+.logoimg4
+{
+	position:absolute;
+	margin-left:78.5%;
+	top:400px;
+}
+.searchbar
+{
+	width:72%;
+	height:33px;
+}
+.searchbutton
+{
+	height:33px;
+	width:17%;
+}
+ul /* edits style of unordered lists */
+{
+	list-style-type:none;
+}
+.alreadyvisited /* sets link color */
+{
+	color:#000000;
+	text-decoration:none;
+}
+.menuframestyle /* for menu column */
+{
+	border-style:solid;
+	border-width:1px;
+	border-color:#CCCCFF;
+	border-radius:10px;
+	width:15%;
+	height:900px;
+}
+.contentframestyle /* main panel, for content */
+{
+	border-style:solid;
+	border-width:1px;
+	border-color:#CCCCFF;
+	border-radius:10px;
+	width:60%;
+	height:900px;
+}
+.topbanner /* online gradient generator */
+{
+	width:100%;
+	height:10%;
+	background: -moz-linear-gradient(top, #b4e391 0%,#61c419 0%,#ffffff 100%);
+}
+.framesets
+{	
+	margin-left:21%;
+	height:85%;
+	width:75%;
+}
+.leftbanner
+{
+	border:0px;
+}
+.rightbanner
+{	
+	border:0px;
+}
+.boxiconborder
+{
+	border-style:solid;
+	border-width:1px;
+	border-color:#CCCCFF;
+	border-radius:10px;
+}
+.tablecell
+{
+	width:50%;
+	border-style:solid;
+	border-width:1px;
+	border-color:#CCCCFF;
+	border-radius:10px;
+	text-align:center;
+}
+.tabletext
+{
+	margin-bottom:10%;
+	text-align:center; 
+	font-family:Arial,Helvetica,sans-serif; 
+	font-size:14px;
+}
+.colortextred
+{
+	color:red;
+}
+.colortextgreen
+{
+	color:green;
+}
+.contentdiv
+{
+	margin-left:24%;
+	margin-top:3%;
+}.contenttable
+{
+	width:450px;
+}
+.tableimg
+{
+	height:100px;
+	width:75px;
+}
+.carttext
+{
+	font-size:25px;
+	margin-left:21.5%;
+}
+.resulttext
+{
+	font-size:25px;
+	margin-left:4%;
+}
+.billingdiv
+{
+	margin-left:11%;
+}
+.confirmbutton
+{
+	text-align:right;
+	float:left;
+}
+.billingtotalpayment
+{
+	margin-left:13.75%;
+	margin-top:2%;
+}
+.billingsubdivright
+{
+	margin-right:33%;
+	margin-top:5%;
+	width:28%;
+	float:right;
+}
+.billingsubdivleft
+{
+	margin-left:5%;
+	margin-top:5.5%;
+	width:30%;
+	text-align:right;
+	float:left;
+}
+.billingdatefield
+{
+	width:30px;
+}

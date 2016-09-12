@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="CSS.css"></link>
+	</head>
+		
+	<div>
+		<script src="scripts.js" type="text/javascript"></script>
+		<h3><a onclick="open_Main()" href="" id="mainbutton" class="alreadyvisited">Main</a></h3>
+		<h3>Browse</h3>
+		<ul> <!--under Browse-->
+			<h4><a onclick="browse_By_Company(parent.kataItem, parent.xmlSize)" href="" class="alreadyvisited">By Company</a></h4>
+			<h4><a onclick="browse_By_Category(parent.kataItem, parent.xmlSize)" href="" class="alreadyvisited">By Category</a></h4>
+		</ul>	
+		
+		<h3><a onclick="find_Items(parent.xmlSize, 'cheap', parent.kataItem, 'Sale')" href="" class="alreadyvisited">Sales</a></h3>
+		<h3>Prices</h3>
+		<ul> <!--under Prices-->
+			<h4><a onclick="find_Items(parent.xmlSize, 'first', parent.kataItem, 'Price')" href="" class="alreadyvisited">$0.01 - $1.99</a></h4>
+			<h4><a onclick="find_Items(parent.xmlSize, 'second', parent.kataItem, 'Price')" href="" class="alreadyvisited">$2.00 - $3.99</a></h4>
+			<h4><a onclick="find_Items(parent.xmlSize, 'third', parent.kataItem, 'Price')" href="" class="alreadyvisited">$4.00 - $5.99</a></h4>
+			<h4><a onclick="find_Items(parent.xmlSize, 'fourth', parent.kataItem, 'Price')" href="" class="alreadyvisited">$6.00+</a></h4>
+		</ul>
+		
+		<h3 id="text"><a onclick="view_Cart(parent.kataItem)" href="" class="alreadyvisited"><h3 id="viewtext">View Cart (0)</h3></a>
+		
+		<form name="search" onsubmit="search_Bar(parent.kataItem, parent.xmlSize)">
+			<h3>Know what you want?</h3>
+			<input type="text" name="searchbar" class="searchbar"/>
+			<input type="submit" value="Go!" name="searchbutton" class="searchbutton"/>
+		</form>		
+		
+		<script type="text/javascript">
+			document.getElementById('viewcart').innerHTML ='View Cart (' + parent.items_In_Cart + ')';
+		</script>
+	</div>
+</html>

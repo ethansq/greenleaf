@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+
+<html>
+	<head>
+		<title>Welcome to Greenleaf!</title>
+		<link rel="stylesheet" type="text/css" href="CSS.css"></link>
+		<script src="scripts.js"></script>
+		<script type="text/javascript">
+			kataItem = [];
+			xmlDoc = loadXMLDoc("XML.xml");
+			xmlSize = xmlDoc.getElementsByTagName("inventory");
+			for (var i = 0; i < xmlSize.length; i++)
+			{
+				kataItem[i] = xml_To_Variable(xmlDoc, i);
+			}
+			purchased_Items = [];
+			items_In_Cart = 0;
+			amountStored = [];
+		</script>
+	</head>
+
+	<div id="logobody" class="logobody">
+		<div id="headers" class="topbanner"></div>
+		
+		<img id='leaf1' alt="Leaf" onmouseover='logo_Fun(this, "in", 1)' onmouseout='logo_Fun(this, "out")' src='Leaf 1.png' class='logoimg1'></img>
+		<img id='leaf2' alt="Leaf" onmouseover='logo_Fun(this, "in", 2)' onmouseout='logo_Fun(this, "out")' src='Leaf 1.png' class='logoimg2'></img>
+		<img id='leaf3' alt="Leaf" onmouseover='logo_Fun(this, "in", 3)' onmouseout='logo_Fun(this, "out")' src='Leaf 1.png' class='logoimg3'></img>
+		<img id='leaf4' alt="Leaf" onmouseover='logo_Fun(this, "in", 4)' onmouseout='logo_Fun(this, "out")' src='Leaf 1.png' class='logoimg4'></img>
+		
+		<div class="framesets">
+			<iframe id="menuframe" src="Menu.html" class="menuframestyle" name="menupanel"></iframe>
+			<iframe id="contentframe" src="Logo.html" class="contentframestyle" name="contentpanel"></iframe>
+		</div>
+	</div>
+</html>

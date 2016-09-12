@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="CSS.css"></link>
+	</head>
+	
+	<div id="logobody">
+		<script src="scripts.js"></script>
+		<h1 class="title">Greenleaf</h1>
+		<h6 class="titleslogan">"Clean, high quality greens"</h6>
+		<script type="text/javascript">
+			var first_Index=Math.floor((Math.random()*100));
+			var second_Index=Math.floor((Math.random()*100));
+			var randoms = [];
+			while (true)
+			{
+				first_Index=Math.floor((Math.random()*100));
+				if (first_Index < parent.kataItem.length)
+					break;
+			}
+			while (true)
+			{
+				second_Index=Math.floor((Math.random()*100));
+				if (second_Index < parent.kataItem.length && second_Index !== first_Index)
+					break;
+			}
+			randoms[0]=parent.kataItem[first_Index];
+			randoms[1]=parent.kataItem[second_Index];
+			create_Table(randoms.length, randoms, "Items", parent.kataItem, parent.xmlSize, "No");
+		</script>
+	</div>
+</html>

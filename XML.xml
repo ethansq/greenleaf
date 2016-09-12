@@ -1,0 +1,723 @@
+﻿<catalogue>
+	<inventory>
+		<productid>1</productid>
+		<name>Frosted Flakes</name>
+		<category>Cereal</category>
+		<company>Kellogg's</company>
+		<description>Get a sweet, crunchy start to your morning with oven-toasted flakes as part of a nutritious breakfast. They're gr-r-reat!</description>
+		<price>2.99</price>
+		<sale id="no">2.49</sale>
+		<image>Product Images/Frosted Flakes.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>2</productid>
+		<name>Fruit Loops</name>
+		<category>Cereal</category>
+		<company>Kellogg's</company>
+		<description>The taste, the colour, the fruity aroma. Follow your nose to this breakfast cereal that's made with corn, wheat, whole grain oat flour and natural fruit flavouring.</description>
+		<price>2.99</price>
+		<sale id="yes">2.49</sale>
+		<image>Product Images/Froot Loops.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>3</productid>
+		<name>Pepsi (2L)</name>
+		<category>Soda</category>
+		<company>PepsiCo</company>
+		<description>Pepsi-Cola hits the spot.</description>
+		<price>1.99</price>
+		<sale id="yes">0.95</sale>
+		<image>Product Images/Pepsi.jpg</image>
+	</inventory>
+	<inventory>		
+		<productid>4</productid>
+		<name>Pizza Pops</name>
+		<category>Frozen Products</category>
+		<company>Pillsbury</company>
+		<description>Filled with gooey cheese and loaded with meaty pepperoni, Pizza Pops™ are the perfect after-school snack</description>
+		<price>3.99</price>
+		<sale id="no">2.95</sale>
+		<image>Product Images/Pizza Pops.jpeg</image>
+	</inventory>
+	<inventory>
+		<productid>5</productid>
+		<name>Black Diamond Cheese</name>
+		<category>Dairy</category>
+		<company>Black Diamond</company>
+		<description>Tasty cheese</description>
+		<price>3.99</price>
+		<sale id="no">2.95</sale>
+		<image>Product Images/Cheese.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>6</productid>
+		<name>Buttermilk Pancakes</name>
+		<category>Cereal</category>
+		<company>Eggo's</company>
+		<description>A source of 8 essential nutrients, these pancakes make a quick and convenient addition to breakfast or are great as a snack. </description>
+		<price>2.99</price>
+		<sale id="no">1.99</sale>
+		<image>Product Images/Eggo Pancakes Buttermilk.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>7</productid>
+		<name>Potato Patties</name>
+		<category>Frozen Products</category>
+		<company>McCain</company>
+		<description>A perfect family favourite - simply bake or fry them for a snack or side dish, any time of day. McCain® Potato Patties are easy to prepare and ready in minutes.</description>
+		<price>3.99</price>
+		<sale id="yes">2.95</sale>
+		<image>Product Images/McCain Potato Patties.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>8</productid>
+		<name>Corn Pops</name>
+		<category>Cereal</category>
+		<company>Kellogg's</company>
+		<description>Try Corn Pops* cereal today for an irresistible big crunch taste</description>
+		<price>2.99</price>
+		<sale id="no">2.49</sale>
+		<image>Product Images/Kellogg's Corn Pops.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>9</productid>
+		<name>Rice Krispies</name>
+		<category>Cereal</category>
+		<company>Kellogg's</company>
+		<description>Oven tosted cereal made with real grains of milled rice. Fat free and a source of 7 essential nutrients. Less than 1 teaspoon of sugar per serving.</description>
+		<price>2.99</price>
+		<sale id="no">1.99</sale>
+		<image>Product Images/Kellogg's Rice Krispies.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>10</productid>
+		<name>Chocolate and Oats Granola Bar</name>
+		<category>Cereal</category>
+		<company>Fibre1</company>
+		<description>A high fibre bar with unbelievably delicious taste! Available in three varieties.</description>
+		<price>2.49</price>
+		<sale id="yes">1.99</sale>
+		<image>Product Images/Fibre1 Chocolate.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>11</productid>
+		<name>Apple Caramel Blossoms</name>
+		<category>Dessert</category>
+		<company>Finest</company>
+		<description>Our Finest Apple Caramel Blossoms® feature golden, flaky pastry gently folded around warm slices of fresh apples topped with rich, buttery caramel.</description>
+		<price>3.99</price>
+		<sale id="yes">2.49</sale>
+		<image>Product Images/Finest Apple Caramel Blossoms.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>12</productid>
+		<name>Spaghetti Vegetable Mix (750g)</name>
+		<category>Ready-To-Eat</category>
+		<company>Arctic Gardens</company>
+		<description>A savoury blend of onions, celery, carrots, green and red peppers, to create a perfect spaghetti sauce.</description>
+		<price>4.99</price>
+		<sale id="no">3.99</sale>
+		<image>Product Images/Arctic Gardens Spaghetti.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>13</productid>
+		<name>Chicken Vegetable Soup (284ml)</name>
+		<category>Canned</category>
+		<company>Campbell's</company>
+		<description>More than just a way to soothe that nasty cold, chicken soup is also a quick and delicious lunch. And with so many varieties to choose from, you'll never get, uh, sick of it.</description>
+		<price>1.99</price>
+		<sale id="yes">0.99</sale>
+		<image>Product Images/Campbell's Chicken Vegetable Soup.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>14</productid>
+		<name>Prime Rib and Vegetables</name>
+		<category>Canned</category>
+		<company>Chunky</company>
+		<description>This soup contains 25% less sodium than our original recipe and has no artificial colours or flavours.</description>
+		<price>3.50</price>
+		<sale id="no">2.49</sale>
+		<image>Product Images/Campbell's Chunky.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>15</productid>
+		<name>Vegetable Oil</name>
+		<category>Oil</category>
+		<company>Great Value</company>
+		<description>Vegetable Oil 1.42L</description>
+		<price>1.49</price>
+		<sale id="no">0.99</sale>
+		<image>Product Images/Great Value Vegetable Oil.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>16</productid>
+		<name>Kettle Cooked BBQ Potato Chips</name>
+		<category>Chips</category>
+		<company>Lay's</company>
+		<description>Lay's® Kettle Cooked Potato Chips - Made with Canadian Potatoes and All Natural flavours.</description>
+		<price>3.99</price>
+		<sale id="yes">2.99</sale>
+		<image>Product Images/Lay's Kettle Cooked BBQ.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>17</productid>
+		<name>Loaded Potato Chips (235g)</name>
+		<category>Chips</category>
+		<company>Ruffles</company>
+		<description>The premium ridges on Ruffles® potato chips help create the ultimate flavour experience. With their big crunch, deep ridges, and great taste, they're the perfect potato chips for snacking or dipping!</description>
+		<price>3.49</price>
+		<sale id="no">2.49</sale>
+		<image>Product Images/Ruffles Loaded Potato Skins.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>18</productid>
+		<name>Voss Water</name>
+		<category>Beverages</category>
+		<company>Voss</company>
+		<description>No Company</description>
+		<price>19.99</price>
+		<sale id="no">9.99</sale>
+		<image>Product Images/Voss Water.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>19</productid>
+		<name>Multigrain Rounds Tortilla Chips</name>
+		<category>Chips</category>
+		<company>Tostitos</company>
+		<description>Tostitos® Multigrain Tortilla Chips - Made with the goodness of Four Grains!</description>
+		<price>2.99</price>
+		<sale id="yes">1.99</sale>
+		<image>Product Images/Tostitos Multigrain.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>20</productid>
+		<name>Sour Cream and Onion (225g)</name>
+		<category>Chips</category>
+		<company>Ritz</company>
+		<description>Happiness right out of the box. Enjoy the rich, flaky, melt in your mouth taste of RITZ in a variety of delicious flavours.</description>
+		<price>2.49</price>
+		<sale id="no">1.49</sale>
+		<image>Product Images/Ritz Chips.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>21</productid>
+		<name>Pure Semi-Sweet Chocolate Baking Chips</name>
+		<category>Chocolate</category>
+		<company>Hershey</company>
+		<description>Baking success is easy with HERSHEY® Pure Semi-Sweet Chocolate Baking Chips because they are fun, easy to use and come in the widest variety of melt-in-your-mouth flavours.</description>
+		<price>1.99</price>
+		<sale id="yes">1.49</sale>
+		<image>Product Images/Hershey Pemi Semi Sweet Chocolate Chips.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>22</productid>
+		<name>Rising Crust Half Deluxe Half Pepperoni Pizza</name>
+		<category>Frozen Products</category>
+		<company>Delissio</company>
+		<description>Experience the fresh-baked taste of Delissio Rising Crust Pizza. It’s not delivery, It’s Delissio!</description>
+		<price>6.99</price>
+		<sale id="yes">4.99</sale>
+		<image>Product Images/Delissio Pepperoni.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>23</productid>
+		<name>Pizza Pockets</name>
+		<category>Frozen Products</category>
+		<company>McCain</company>
+		<description>Good food starts from real ingredients. That’s why all of our Pizza Pockets® snacks begin with wholesome ingredients like you’d use if you were making it yourself at home – and of course they’re baked not fried, made with real cheese, contain no artificial colours or flavours and are a source of fibre. Our cheesiest variety is stuffed with real mozzarella, cheddar and Romano cheeses. McCain It’s all good™</description>
+		<price>2.99</price>
+		<sale id="no">1.99</sale>
+		<image>Product Images/McCain Pizza Pockets.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>24</productid>
+		<name>Zabiha Halal BBQ style Chicken Wings</name>
+		<category>Frozen Products</category>
+		<company>Maple Lodge Farms</company>
+		<description>Our Maple Lodge Farms Zabiha Halal chicken breast strips are made with premium whole chicken breast meat, crispy breading and flavourful seasoning. They are easy to prepare and contain 0 trans fat. </description>
+		<price>8.99</price>
+		<sale id="yes">6.99</sale>
+		<image>Product Images/MapleLodge BBQ Style Chicken Wings.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>25</productid>
+		<name>Veal Parmigiana</name>
+		<category>Frozen Products</category>
+		<company>Stouffer's</company>
+		<description>Stouffer's Veal Parmigiana with linguine in tomato sauce.</description>
+		<price>4.49</price>
+		<sale id="yes">3.99</sale>
+		<image>Product Images/Stouffer's Veal Parmigiana.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>26</productid>
+		<name>Backyard Barbeque</name>
+		<category>Frozen Products</category>
+		<company>Hungry-Man</company>
+		<description>Hungry-Man meals offer great tasting foods that men love. With options ranging from original Classic Fried Chicken to pub-style Beer Battered Fried Chicken, Hungry-Man dinners are a quick, satisfying meal to help you get on with your day.</description>
+		<price>4.99</price>
+		<sale id="no">3.99</sale>
+		<image>Product Images/Hungry-Man Backyard Barbeque.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>27</productid>
+		<name>Shoestring Fries</name>
+		<category>Frozen Products</category>
+		<company>McCain</company>
+		<description>A spin on the classic, these thin and crispy fries are the perfect size.</description>
+		<price>9.99</price>
+		<sale id="no">7.99</sale>
+		<image>Product Images/McCain ShoeString Fries.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>28</productid>
+		<name>Pogos</name>
+		<category>Frozen Products</category>
+		<company>Pogo</company>
+		<description>Grab a POGO® for a satisfying lunch or snack that's ready in minutes. They're convenient when your big kids come home from school scrounging for food. Their sticks make them fun to eat and it’s quick and easy to clean up.</description>
+		<price>2.99</price>
+		<sale id="yes">1.49</sale>
+		<image>Product Images/Pogo.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>29</productid>
+		<name>Sweet and Sour Chicken</name>
+		<category>Frozen Products</category>
+		<company>VH Steamers</company>
+		<description> Get the best of both sweet and sour flavours with this delicious dish made with tender chunks of chicken, rice, pineapple, and red green peppers in a flavourful sauce.</description>
+		<price>3.99</price>
+		<sale id="no">2.99</sale>
+		<image>Product Images/VH Streamers Sweet and Sour Chicken.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>30</productid>
+		<name>Sweet Sesame Chicken</name>
+		<category>Frozen Products</category>
+		<company>Healthy Choice</company>
+		<description>Sweet and spicy sesame sauce complements generous chunks of chicken tenderloin, soft white rice, and vegetables. </description>
+		<price>6.99</price>
+		<sale id="yes">5.49</sale>
+		<image>Product Images/Healthy Choice Sweet Sesame Chicken.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>31</productid>
+		<name>Cookies and Cream Ice Cream</name>
+		<category>Ice Cream</category>
+		<company>Nestle</company>
+		<description>Enjoy your favourite ice cream parlour flavours with Nestle Parlour. Try our new Cookies and Cream!</description>
+		<price>4.99</price>
+		<sale id="no">3.99</sale>
+		<image>Product Images/Nestlé Parlour Cookies and Cream.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>32</productid>
+		<name>Triple Rockets Ice Pops</name>
+		<category>Ice Cream</category>
+		<company>Nestle</company>
+		<description>Enjoy the flavour combination of cherry, white lemon and grape found in Triple Rockets. Made with fruit juice and no artificial colours they’re a refreshing treat for kids and adults alike.</description>
+		<price>5.49</price>
+		<sale id="yes">3.99</sale>
+		<image>Product Images/Nestlé Triple Rockets.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>33</productid>
+		<name>Pralines and Cream</name>
+		<category>Ice Cream</category>
+		<company>Haagen-Dazs</company>
+		<description>Pure creamy vanilla ice cream infused with crunchy praline pecans and thick rich swirls of smooth gooey caramel.</description>
+		<price>6.49</price>
+		<sale id="yes">4.99</sale>
+		<image>Product Images/Häägen-Dazs Pralines and Cream.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>34</productid>
+		<name>Simply Dipped Cookies and Cream Drumstick(4pk)</name>
+		<category>Ice Cream</category>
+		<company>Nestle</company>
+		<description>Nestlé DRUMSTICK Simply Dipped is Simply Delicious! It’s the perfect treat for you and your family. It has the same rich chocolatey coating, crispy sugar cone and delicious chocolatey tip as the Drumstick you love without the nuts*. (*Produced on equipment that produces nuts)</description>
+		<price>5.99</price>
+		<sale id="no">3.99</sale>
+		<image>Product Images/Nestlé Drumstick Cookies and Cream.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>35</productid>
+		<name>Smarties Ice Cream</name>
+		<category>Ice Cream</category>
+		<company>Nestle</company>
+		<description>Packed with fun flavour, SMARTIES candy pieces are swirled throughout delicious creamy vanilla chocolatey goodness. Plus SMARTIES have the added benefit of natureal flavours and colours.</description>
+		<price>4.99</price>
+		<sale id="no">3.95</sale>
+		<image>Product Images/Nestlé Smarties.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>36</productid>
+		<name>LifeSavers Ice Pops</name>
+		<category>Ice Cream</category>
+		<company>LifeSavers</company>
+		<description>A fun and exciting treat every kid is sure to love!</description>
+		<price>5.99</price>
+		<sale id="no">4.49</sale>
+		<image>Product Images/LifeSavers.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>37</productid>
+		<name>Spaghetti Sauce Mix</name>
+		<category>Sauce</category>
+		<company>Club House</company>
+		<description>A creamy red sauce with Cheddar and parmesan cheese flavours.</description>
+		<price>1.29</price>
+		<sale id="yes">0.99</sale>
+		<image>Product Images/Club House Spaghetti Sauce Mix.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>38</productid>
+		<name>Pasta Sauce Original (1.75L)</name>
+		<category>Sauce</category>
+		<company>Prego</company>
+		<description>Prego is so full of flavour, you don't need to add a thing. The hearty Italian sauce, made from red vine ripened tomatoes, has a fullness of flavour you can taste in every bite. </description>
+		<price>2.99</price>
+		<sale id="no">1.99</sale>
+		<image>Product Images/Prego Pasta Sauce Original.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>39</productid>
+		<name>Chili Seasoning Mix</name>
+		<category>Sauce</category>
+		<company>Club House</company>
+		<description>The perfect blend of spices to create your family's favourite chili. Serve prepared chili with crusty bread and shredded Cheddar cheese. Also great served over hot dogs and baked potatoes.</description>
+		<price>0.99</price>
+		<sale id="yes">0.49</sale>
+		<image>Product Images/Club House Seasoning Mix.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>40</productid>
+		<name>Tomato and Basil Light (700mL)</name>
+		<category>Sauce</category>
+		<company>Ragu</company>
+		<description>A tasty compliment to your active lifestyle</description>
+		<price>1.29</price>
+		<sale id="no">0.95</sale>
+		<image>Product Images/Ragu Tomato and Basil Light.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>41</productid>
+		<name>Linguine</name>
+		<category>Pasta</category>
+		<company>Italpasta</company>
+		<description>We proudly use only 100% Canadian durum semolina. We select only product made from the heart of the finest grade of wheat. We do not use any alcohol or products of animal origin in the production of our pasta. Kosher certified. Contains wheat. May contain egg.</description>
+		<price>4.99</price>
+		<sale id="no">3.95</sale>
+		<image>Product Images/Italpasta Linguine.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>42</productid>
+		<name>Lasagna</name>
+		<category>Pasta</category>
+		<company>Italpasta</company>
+		<description>Looking for a pasta dish with a little more flair? Italpasta also offers a wide range of oven pastas in our signature classic recipe, spinach, and whole wheat. For that traditional baked pasta recipe that everyone loves – try Italpasta lasagna. Your family will thank you.</description>
+		<price>5.99</price>
+		<sale id="no">4.95</sale>
+		<image>Product Images/Italpasta Lasagna.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>43</productid>
+		<name>25% Less Salt Gravy Mix for Turkey</name>
+		<category>Pasta</category>
+		<company>Club House</company>
+		<description>Contains 25% less salt than regular Club House gravy mix for Turkey has the same meaty roast gravy and poultry-style herb flavour.For a richer flavour prepare Club House gravy mix for Turkey as per package directions on the stove top. </description>
+		<price>0.99</price>
+		<sale id="no">0.49</sale>
+		<image>Product Images/Club House 25% Less Salt Gravy Mix for Turkey.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>44</productid>
+		<name>Breakfast Potatos Potato Pancakes</name>
+		<category>Frozen Products</category>
+		<company>McCain</company>
+		<description>Made from real shredded potatoes and lightly seasoned with onion and spices, these potato pancakes have the perfect savoury flavour.</description>
+		<price>4.99</price>
+		<sale id="yes">3.49</sale>
+		<image>Product Images/McCain Potato Pancakes.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>45</productid>
+		<name>Sour Cream and Chives Pasta</name>
+		<category>Frozen Products</category>
+		<company>Sidekicks</company>
+		<description>A rich sour cream sauce with chopped chives over rippled pasta.</description>
+		<price>2.99</price>
+		<sale id="no">1.95</sale>
+		<image>Product Images/Knorr Sidekicks Sour Cream and Chives Pasta.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>46</productid>
+		<name>Strawberries</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>2.99</price>
+		<sale id="yes">1.95</sale>
+		<image>Product Images/Strawberries.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>47</productid>
+		<name>Blueberries</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>4.99</price>
+		<sale id="no">3.49</sale>
+		<image>Product Images/Blueberries.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>48</productid>
+		<name>Apples</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>1.99</price>
+		<sale id="no">0.95</sale>
+		<image>Product Images/Apple.jpg</image>
+	</inventory>
+	<inventory>
+		
+		<productid>49</productid>
+		<name>Oranges</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>2.5</price>
+		<sale id="yes">1.49</sale>
+		<image>Product Images/Oranges.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>50</productid>
+		<name>Lemons</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>0.99</price>
+		<sale id="yes">0.49</sale>
+		<image>Product Images/Lemons.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>51</productid>
+		<name>Onions</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>2.5</price>
+		<sale id="no">1.95</sale>
+		<image>Product Images/Onion.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>52</productid>
+		<name>Peaches</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>2.99</price>
+		<sale id="no">2.49</sale>
+		<image>Product Images/Peach.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>53</productid>
+		<name>Bananas</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>1.99</price>
+		<sale id="no">1.49</sale>
+		<image>Product Images/Banana.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>54</productid>
+		<name>Kiwis</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>1.99</price>
+		<sale id="yes">1.49</sale>
+		<image>Product Images/Kiwi.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>55</productid>
+		<name>Mangos</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>3.49</price>
+		<sale id="yes">2.49</sale>
+		<image>Product Images/Mango.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>56</productid>
+		<name>Pineapples</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>6.99</price>
+		<sale id="no">4.99</sale>
+		<image>Product Images/Pineapple.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>57</productid>
+		<name>Pears</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>1.99</price>
+		<sale id="no">1.49</sale>
+		<image>Product Images/Pear.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>58</productid>
+		<name>Cherries</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>2.49</price>
+		<sale id="no">1.49</sale>
+		<image>Product Images/Cherry.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>59</productid>
+		<name>Avocados</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>2.99</price>
+		<sale id="yes">1.99</sale>
+		<image>Product Images/Avocado.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>60</productid>
+		<name>Coconuts</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>3.99</price>
+		<sale id="no">2.49</sale>
+		<image>Product Images/Coconut.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>61</productid>
+		<name>Grapes</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>1.99</price>
+		<sale id="no">1.49</sale>
+		<image>Product Images/Grape.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>62</productid>
+		<name>Watermelon</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>7.99</price>
+		<sale id="no">5.99</sale>
+		<image>Product Images/Watermelon.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>63</productid>
+		<name>Pomegranate</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>AA delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>4.99</price>
+		<sale id="no">3.99</sale>
+		<image>Product Images/Pomegranate.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>64</productid>
+		<name>Tomato</name>
+		<category>Fruits</category>
+		<company>No Company</company>
+		<description>A delicious colored fruit straight from local farms, enjoyable by all</description>
+		<price>1.49</price>
+		<sale id="yes">0.99</sale>
+		<image>Product Images/Tomato.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>65</productid>
+		<name>Broccoli</name>
+		<category>Vegetables</category>
+		<company>No Company</company>
+		<description>Fresh, delicious vegetables straight from local farms.</description>
+		<price>1.99</price>
+		<sale id="no">1.49</sale>
+		<image>Product Images/Broccoli.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>66</productid>
+		<name>Carrot</name>
+		<category>Vegetables</category>
+		<company>No Company</company>
+		<description>Fresh, delicious vegetables straight from local farms.</description>
+		<price>1.49</price>
+		<sale id="no">0.95</sale>
+		<image>Product Images/Carrot.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>67</productid>
+		<name>Bok Choy</name>
+		<category>Vegetables</category>
+		<company>No Company</company>
+		<description>Fresh, delicious vegetables straight from local farms.</description>
+		<price>1.99</price>
+		<sale id="no">1.49</sale>
+		<image>Product Images/Bok Choy.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>68</productid>
+		<name>Cabbage</name>
+		<category>Vegetables</category>
+		<company>No Company</company>
+		<description>Fresh, delicious vegetables straight from local farms.</description>
+		<price>0.99</price>
+		<sale id="no">0.49</sale>
+		<image>Product Images/Cabbage.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>69</productid>
+		<name>Lettuce</name>
+		<category>Vegetables</category>
+		<company>No Company</company>
+		<description>Fresh, delicious vegetables straight from local farms.</description>
+		<price>1.49</price>
+		<sale id="no">0.95</sale>
+		<image>Product Images/Lettuce.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>70</productid>
+		<name>Brussel Sprout</name>
+		<category>Vegetables</category>
+		<company>No Company</company>
+		<description>Fresh, delicious vegetables straight from local farms.</description>
+		<price>0.99</price>
+		<sale id="yes">0.49</sale>
+		<image>Product Images/Brussel Sprout.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>71</productid>
+		<name>Celery</name>
+		<category>Vegetables</category>
+		<company>No Company</company>
+		<description>Fresh, delicious vegetables straight from local farms.</description>
+		<price>1.5</price>
+		<sale id="no">0.95</sale>
+		<image>Product Images/Celery.jpg</image>
+	</inventory>
+	<inventory>
+		<productid>72</productid>
+		<name>Spinach</name>
+		<category>Vegetables</category>
+		<company>No Company</company>
+		<description>Fresh, delicious vegetables straight from local farms.</description>
+		<price>1.99</price>
+		<sale id="no">0.95</sale>
+		<image>Product Images/Spinach.jpg</image>
+	</inventory>
+</catalogue>
